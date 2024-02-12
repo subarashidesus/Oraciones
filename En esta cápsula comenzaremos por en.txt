@@ -1,0 +1,14 @@
+En esta cápsula comenzaremos por enteder lo básico: ¿Qué es GPT? Veremos cómo ChatGPT pyede ayudarte en el Prep Course y discuriremos sus limitaciones
+
+
+Luegom pasaremos a la parte práctica. Te mostraremos cómo activar tu ChatGPT y cómo formular preguntas (prompts) de manera efectiva para obtener los mejores resultados. La clave está en enteder el rol de los prompts y cóno estructurarlos correctamente.
+
+
+Objetivos de aprendiaje
+
+
+Al finalizar está cápsula estarás en la capacidad de 
+
+1 Describir la Inteligencia Artificail y el modelo GPT, y cómo este último impulsa las funcionalidades de ChatGPT.
+
+2 Identificar las limitaciones y posibilidades de ChatGPT para utilizarlo de forma efectiva y seguro en 
